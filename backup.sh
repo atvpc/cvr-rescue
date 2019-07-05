@@ -20,4 +20,4 @@ for f in hosts/*.sh; do
   fi
 done
 
-scp archives/*.tgz cvrserver@CVR-SERVER:c:/Users/Public/Backups/Automated
+scp archives/*.tgz cvrserver@cvr-server:c:/Users/Public/Backups/Automated
